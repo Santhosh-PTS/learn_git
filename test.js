@@ -3,3 +3,7 @@ function getValue(){
     let num = 1;
     return num
 };
+
+function setValue(){
+    return "fhsdjk"
+}
