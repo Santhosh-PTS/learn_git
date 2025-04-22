@@ -7,3 +7,6 @@ function getValue(){
 function setValue(){
     return "fhsdjk"
 }
+function getSeearch(){
+    return "id"
+}
