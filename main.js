@@ -1,2 +1,2 @@
-// console.log("main js file");
-console.log("udpated");
+console.log("main js file");
+// console.log("udpated");
